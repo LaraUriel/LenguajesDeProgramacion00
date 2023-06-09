@@ -1,0 +1,136 @@
+body {
+	background-color: #3f3f3f;
+}
+
+h1 {
+text-align: center; 
+font-family: sans-serif; 
+font-size: 50px; 
+COLOR: #FFFFFF; 
+text-shadow: 0px 0px 9px #508AD3;
+background-color: black;
+}
+
+div.one {
+	background-image: url('https://image.coderslink.com/wp-content/uploads/2022/05/How-To-Keep-Your-People-Happy-In-The-Flexi-Work-7.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	color: #FFFFFF;
+}
+.caja {
+font-family: sans-serif;
+font-size: 23px;
+font-weight: 400;
+color: #ffffff;
+background: #868585;
+margin: 7px 150px 25px;
+overflow: hidden;
+padding: 20px;
+text-align: justify;
+border-radius: 15px 15px 15px 15px;
+}
+img.izquierda{
+	float: left;
+	width: 500px;
+	height: 380px;
+	margin-right: 20px;
+	transition:all .5s ease-in-out;
+}
+
+img.izquierda:hover {
+	-webkit-transform: rotateY(180deg);
+	-webkit-transform-style: preserve-3d;
+	transform: rotateY(180deg);
+	transform-style: preserve-3d;
+}
+
+h2.caja2 {
+	font-family: sans-serif;
+	font-size: 35px;
+	font-weight: 400;
+	color: #ffffff;
+	background: #868585;
+	margin: 7px 150px 25px;
+	overflow: hidden;
+	padding: 20px;
+	text-align: center;
+	border-radius: 50px ;
+}
+
+.caja3 b{
+	color: black;
+	font-size: 29px;
+}
+
+.caja3 {
+	font-family: sans-serif;
+	font-size: 23px;
+	font-weight: 400;
+	color: #ffffff;
+	background: #868585;
+	margin-right: 700px;
+	margin-left: 150px;
+	overflow: hidden;
+	padding: 20px;
+	text-align: justify;
+	border-radius: 15px 15px 15px 15px;
+}
+
+.caja4 b{
+	color: black;
+	font-size: 29px;
+}
+.caja4 {
+	font-family: sans-serif;
+	font-size: 23px;
+	font-weight: 400;
+	color: #ffffff;
+	background: #868585;
+	margin-right: 700px;
+	margin-left: 150px;
+	overflow: hidden;
+	padding: 20px;
+	text-align: justify;
+	border-radius: 15px 15px 15px 15px;
+}
+
+.caja5 b{
+	color: black;
+	font-size: 29px;
+}
+.caja5 {
+	font-family: sans-serif;
+	font-size: 23px;
+	font-weight: 400;
+	color: #ffffff;
+	background: #868585;
+	margin-right: 700px;
+	margin-left: 150px;
+	overflow: hidden;
+	padding: 20px;
+	text-align: justify;
+	border-radius: 15px 15px 15px 15px;
+}
+
+img.derecha{
+	float: right;
+	width: 600px;
+	height: 450px;
+	margin-right: 20px;
+	margin-top: 200px;
+	transition:all .5s ease-in-out;
+}
+
+.derecha:hover{
+	 border-radius:50%;
+	-webkit-border-radius:50%;
+	box-shadow: 0px 0px 15px 15px #ec731e;
+	-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+	transform: rotate(360deg);
+	-webkit-transform: rotate(360deg)
+}
+
+video {
+	margin-left: 450px;
+}
